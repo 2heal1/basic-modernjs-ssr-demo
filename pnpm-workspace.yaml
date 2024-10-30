@@ -1,0 +1,4 @@
+packages:
+ - 'dynamic-provider'
+ - 'host'
+ - 'provider'
